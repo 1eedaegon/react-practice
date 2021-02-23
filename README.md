@@ -4,14 +4,6 @@ Make Movie app using React.js for practice
 
 ## TODO
 
-- [ ] Home
-- [ ] Search
-- [ ] Detail
-- [ ] TV
-
-
-## API verbs
-
 - [x] Now playing
 - [x] Upcoming
 - [x] Top Rated
@@ -19,3 +11,8 @@ Make Movie app using React.js for practice
 - [x] Airing TV(Live)
 - [x] TV show detail
 - [x] Movie detail - Upgrade Destructuring
+- [ ] IMDB Link
+- [ ] Tabs inside of Movie / Show Details (YT Videos, Production Company & Countries)
+- [ ] Collections Link
+- [ ] /collections router
+- [ ] On TV Show, show seasons and creators
