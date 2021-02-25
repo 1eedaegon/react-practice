@@ -2,6 +2,10 @@
 
 Make Movie app using React.js for practice
 
+## DEMO
+
+[Demo](https://1eedaegon.github.io/react-practice)
+
 ## TODO
 
 - [x] Now playing
